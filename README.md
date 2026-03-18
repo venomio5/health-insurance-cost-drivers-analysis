@@ -13,8 +13,8 @@ This project analyzes employee medical insurance charges to identify the primary
 
 ## Project Structure
 
-- `data/`          → raw & processed datasets
-- `notebooks/`     → Jupyter notebooks (numbered by analysis stage)
+- `data/` → raw & processed datasets
+- `notebooks/` → Jupyter notebooks (numbered by analysis stage)
 - `reports/figures/` → key charts for presentation
 
 ## Notebooks
